@@ -25,5 +25,4 @@ scipy
 sentencepiece
 webdataset
 fsspec
-datatrove
 ftfy
